@@ -9,7 +9,8 @@ download folder is for YT download purpose.
 - `./ytmp3-dl.sh <url>` for mp3
 - `./ytmp3-dl.sh <url>` for mp4
 
-For YT download options, check `youtube-dl` cmd
+For YT download options, check `yt-dlp` cmd
+If cmd broken, check `ytmp3-dl.sh` and `ytmp4-dl.sh` for details
 
 ### Play cmd
 
